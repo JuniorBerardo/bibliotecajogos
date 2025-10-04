@@ -26,7 +26,8 @@ Projeto Full Stack desenvolvido como atividade prática, utilizando Spring Boot 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/bibliotecajogos-pessoais.git](https://github.com/SEU-USUARIO/bibliotecajogos-pessoais.git)
+ git clone https://github.com/JuniorBerardo/bibliotecajogos.git
+cd bibliotecajogos
    cd bibliotecajogos-pessoais
    ```
 
